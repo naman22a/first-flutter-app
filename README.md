@@ -6,9 +6,7 @@ discovered the limitless potential of Flutter for creating stunning cross-platfo
 
 ## 📷 Screenshots
 
-<div style="width: 60%;">
+<div style="display: flex;gap: 20px;">
     <img src="./readme/app1.jpeg" alt="App">
-    <br>
-    <br>
     <img src="./readme/app2.jpeg" alt="App">
 </div>
