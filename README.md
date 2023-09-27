@@ -4,6 +4,9 @@ I embarked on this Flutter app development journey as a beginner, eager to trans
 user-friendly product. Throughout the process, I honed my coding skills, learned about UI/UX design, and
 discovered the limitless potential of Flutter for creating stunning cross-platform apps.
 
-## ScreenShots
+## 📷 Screenshots
 
-![App](./readme/app.jpeg)
+<div style="width: 70%;">
+    <img src="./readme/app1.jpeg" alt="App">
+    <img src="./readme/app2.jpeg" alt="App">
+</div>
